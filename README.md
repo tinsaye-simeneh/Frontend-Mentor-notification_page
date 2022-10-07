@@ -36,7 +36,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-- [Bootstrap](https://https://getbootstrap.com/) - CSS Framework
 
 ### What I learned
 
