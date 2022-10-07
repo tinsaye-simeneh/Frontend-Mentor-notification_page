@@ -26,14 +26,31 @@
 .badge{
     background-color: hsl(219, 85%, 26%);
     color: #fff;
-    padding: .2125rem .325rem .2125rem .325rem;
+    padding: .1rem .525rem .15rem .525rem;
     margin-left: .4rem;
+    font-size: .8rem;
     border-radius: .325rem;
 }
-.col-4{
+@font-face {
+    font-family: Plus Jakarta Sans;
+    src: url(./assets/fonts/PlusJakartaSans-VariableFont_wght.ttf);
+  }
+.col-6{
     height: 100%;
-    width: 25%;
-    background-color: green;
+    width: 50%;
+    background-color: white;
+    color: #000;
     border-radius: .3125rem;
-    padding: .625rem;
+    padding: .85rem 2rem .85rem 2rem;
+    font-size: 1rem;
+    font-weight: 800;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.col-6 a{
+    float: right;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: hsl(219, 12%, 42%);
+    text-decoration: none;
+    font-family: 'Plus Jakarta Sans', sans-serif;
 }
