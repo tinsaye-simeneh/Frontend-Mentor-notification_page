@@ -26,8 +26,8 @@ Users should be able to:
 ![](./screenshot.png)
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/html-css-CbiahxLvCp](https://www.frontendmentor.io/solutions/html-css-CbiahxLvCp)
+- Live Site URL: [https://fm-notification.vercel.app/https://fm-notification.vercel.app/]()
 
 ## My process
 
