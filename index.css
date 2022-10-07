@@ -16,7 +16,7 @@ body{
 .container{
     display: grid;
     margin: 0 auto;
-    width: 40%;
+    width: 43%;
     border-radius: 0.5rem;
     padding: 0.7rem;
     margin-top: 2rem;
@@ -29,12 +29,12 @@ body{
 }
 .col-2{
     display: flex;
-    width: 10%;
+    width: 15%;
     height: auto;
 }
 .col-10{
-    display: flex;
-    width: 90%;
+    display: block;
+    width: 85%;
     height: auto;
 }
 .col-6{
@@ -79,7 +79,7 @@ body{
 }
 .name{
     font-weight: 800;
-    padding-right: 0.5rem;
+    padding-right: 0.3rem;
     font-size: 0.8rem;
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
@@ -100,7 +100,7 @@ body{
 
 @media screen and (max-width: 600px) {
     .container{
-        width: 90%;
+        width: 95%;
     }
     .col-2{
         width: 25%;
