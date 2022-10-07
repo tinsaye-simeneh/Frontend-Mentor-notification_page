@@ -16,7 +16,7 @@ body{
 .container{
     display: grid;
     margin: 0 auto;
-    width: 45%;
+    width: 40%;
     border-radius: 0.5rem;
     padding: 0.7rem;
     margin-top: 2rem;
@@ -29,7 +29,7 @@ body{
 }
 .col-2{
     display: flex;
-    width: 7%;
+    width: 10%;
     height: auto;
 }
 .col-10{
@@ -70,7 +70,7 @@ body{
     background:  hsl(219, 85%, 26%);
 }
 .col-6 a{
-    color: hsl(224, 21%, 14%);
+    color: hsl(219, 12%, 42%);
     font-weight: 500;
     font-size: 0.8rem;
     font-family: 'Plus Jakarta Sans', sans-serif;
@@ -85,8 +85,38 @@ body{
 }
 .detail{
     color: hsl(219, 12%, 42%);
+    padding-right: 0.5rem;
     font-weight: 500;
     font-size: 0.8rem;
     font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.detail2{
+    color: hsl(224, 21%, 14%);
+    padding-right: 0.5rem;
+    font-weight: 500;
+    font-size: 0.8rem;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+@media screen and (max-width: 600px) {
+    .container{
+        width: 90%;
+    }
+    .col-2{
+        width: 25%;
+    }
+    .col-10{
+        display: block;
+        width: 75%;
+    }
+    .col-6{
+        width: 100%;
+    }
+    .col-12{
+        width: 100%;
+    }
+    .detail, .detail2{
+        display: inline;
+    }
 }
  
