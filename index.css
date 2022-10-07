@@ -37,8 +37,13 @@ body{
     height: auto;
     padding: 0.5rem 1rem;
     margin: 0rem 1rem 1rem 1rem;
-    background: hsl(205, 33%, 90%);
     border-radius: 0.5rem;
+}
+.new{
+    background: hsl(205, 33%, 90%);
+}
+.old{
+    background: #fff;
 }
 .col-6 span{
     font-weight: 800;
