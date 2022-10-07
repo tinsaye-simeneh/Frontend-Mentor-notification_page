@@ -22,6 +22,7 @@ body{
     margin-top: 2rem;
     background: #fff;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 2rem;
 }
 .row{
     display: flex;
@@ -96,7 +97,15 @@ body{
     font-size: 0.8rem;
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
-
+.independent-div{
+          color: gray;
+          width: 75%;
+          font-size: 0.8rem;
+          font-family: 'Plus Jakarta Sans', sans-serif;
+          margin-left: 18%;
+          border: 1px solid gray;
+          padding: 0.5vw;
+}
 @media screen and (max-width: 600px) {
     .container{
         width: 95%;
