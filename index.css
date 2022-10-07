@@ -1,0 +1,39 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 50%;
+    margin: .625rem 0rem .625rem 0rem;
+    background-color: #fff;
+    border-radius: .3125rem;
+}
+.badge{
+    background-color: hsl(219, 85%, 26%);
+    color: #fff;
+    padding: .2125rem .325rem .2125rem .325rem;
+    margin-left: .4rem;
+    border-radius: .325rem;
+}
+.col-4{
+    height: 100%;
+    width: 25%;
+    background-color: green;
+    border-radius: .3125rem;
+    padding: .625rem;
+}
