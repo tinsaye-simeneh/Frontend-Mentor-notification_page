@@ -39,6 +39,12 @@ body{
     width: 85%;
     height: auto;
 }
+.col-8{
+    display: block;
+    width: 75%;
+    margin-left: 0.5rem;
+    height: auto;
+}
 .col-6{
     width: 50%;
     height: auto;
