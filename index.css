@@ -16,7 +16,7 @@ body{
 .container{
     display: grid;
     margin: 0 auto;
-    width: 35%;
+    width: 45%;
     border-radius: 0.5rem;
     padding: 0.7rem;
     margin-top: 2rem;
@@ -29,7 +29,7 @@ body{
 }
 .col-2{
     display: flex;
-    width: 10%;
+    width: 7%;
     height: auto;
 }
 .col-10{
@@ -76,5 +76,17 @@ body{
     font-family: 'Plus Jakarta Sans', sans-serif;
     text-decoration: none;
     float: right;
+}
+.name{
+    font-weight: 800;
+    padding-right: 0.5rem;
+    font-size: 0.8rem;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.detail{
+    color: hsl(219, 12%, 42%);
+    font-weight: 500;
+    font-size: 0.8rem;
+    font-family: 'Plus Jakarta Sans', sans-serif;
 }
  
