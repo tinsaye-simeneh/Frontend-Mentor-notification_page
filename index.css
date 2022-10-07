@@ -83,6 +83,13 @@ body{
     padding-right: 0.3rem;
     font-size: 0.8rem;
     font-family: 'Plus Jakarta Sans', sans-serif;
+    color: hsl(224, 21%, 14%);
+    text-decoration: none;
+}
+.name:hover, .mark:hover, .detail2:hover{
+    color: hsl(219, 85%, 26%);
+    font-weight: 800;
+    cursor: pointer;
 }
 .detail{
     color: hsl(219, 12%, 42%);
@@ -105,6 +112,7 @@ body{
           margin-left: 18%;
           border: 1px solid gray;
           border-radius: 0.5rem;
+          margin-top: 1rem;
           padding: 0.5vw;
 }
 @media screen and (max-width: 600px) {
