@@ -93,7 +93,7 @@ body{
 }
 .detail2{
     color: hsl(224, 21%, 14%);
-    font-weight: 500;
+    font-weight: 800;
     font-size: 0.8rem;
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
@@ -104,6 +104,7 @@ body{
           font-family: 'Plus Jakarta Sans', sans-serif;
           margin-left: 18%;
           border: 1px solid gray;
+          border-radius: 0.5rem;
           padding: 0.5vw;
 }
 @media screen and (max-width: 600px) {
