@@ -16,7 +16,7 @@ body{
 .container{
     display: grid;
     margin: 0 auto;
-    width: 40%;
+    width: 35%;
     border-radius: 0.5rem;
     padding: 0.7rem;
     margin-top: 2rem;
@@ -26,6 +26,16 @@ body{
 .row{
     display: flex;
     width: 100%;
+}
+.col-2{
+    display: flex;
+    width: 10%;
+    height: auto;
+}
+.col-10{
+    display: flex;
+    width: 90%;
+    height: auto;
 }
 .col-6{
     width: 50%;
