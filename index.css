@@ -17,7 +17,7 @@ body{
 .container{
     display: grid;
     margin: 0 auto;
-    width: 43%;
+    width: 44%;
     border-radius: 0.5rem;
     padding: 0.7rem;
     margin-top: 2rem;
@@ -127,6 +127,14 @@ body{
     cursor: pointer;
     border: none;
 }
+.dot {
+    height: 6px;
+    width: 6px;
+    margin-left: 0.2rem;
+    background-color: hsl(1, 90%, 64%);
+    border-radius: 50%;
+    display: inline-block;
+  }
 @media screen and (max-width: 600px) {
     .container{
         width: 95%;
