@@ -39,8 +39,8 @@ Users should be able to:
 
 ### What I learned
 
-This project teaches me how to use bootstrap and how to use it to make a responsive website.
-Additionally, the use of media queries, CSS Grid and also the design workflows.
+This project teaches me how to use CSS Grid and flex box and how to use it to make a responsive website.
+Additionally, the use of media queries and also the design workflows.
 ## Author
 
 - Github - [@tinsaye-simeneh](https://github.com/tinsaye-simeneh)
