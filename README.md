@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/html-css-CbiahxLvCp](https://www.frontendmentor.io/solutions/html-css-CbiahxLvCp)
-- Live Site URL: [https://fm-notification.vercel.app/https://fm-notification.vercel.app/]()
+- Live Site URL: [https://fm-notification.vercel.app/https://fm-notification.vercel.app/](https://fm-notification.vercel.app/https://fm-notification.vercel.app/)
 
 ## My process
 
